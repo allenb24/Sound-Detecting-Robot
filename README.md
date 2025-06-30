@@ -49,15 +49,6 @@ https://github.com/user-attachments/assets/1dd77673-c3ed-451e-aad0-8a63ae4053c5
 
 ---
 
-## Educational Use & Acknowledgments
-
-Some files (e.g. `startup_msp432p401r_ccs.c`, `system_msp432p401r.c`) are derived from TI DriverLib and/or provided by UC Davis instructors. These files retain their original license headers.
-
-This repository is shared for **educational and non-commercial use** only.  
-Please do **not** reuse this work for academic credit without permission.
-
----
-
 ## What I Learned
 
 This project taught me fundamental embedded systems concepts such as:
@@ -67,6 +58,15 @@ This project taught me fundamental embedded systems concepts such as:
 - Data filtering and ADC processing
 - Debugging hardware interactions (noise, analog signals, GPIO control)
 - Circuit design
+
+---
+
+## Educational Use & Acknowledgments
+
+Some files (e.g. `startup_msp432p401r_ccs.c`, `system_msp432p401r.c`) are derived from TI DriverLib and/or provided by UC Davis instructors. These files retain their original license headers.
+
+This repository is shared for **educational and non-commercial use** only.  
+Please do **not** reuse this work for academic credit without permission.
 
 It also reinforced how important structured logic and noise filtering are when designing reactive systems. Timing and signal conditioning made a major difference in detecting actual sound events vs. background interference.
 
