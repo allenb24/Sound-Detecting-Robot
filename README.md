@@ -36,8 +36,8 @@ Developed as a final project for EEC 10: Introduction to Embedded Systems at UC 
 - `ccs_project/`: Code Composer Studio project files
 - `extras/`: Backup or non-critical files
 
-## Hardware
-![Robot Setup](media/robot.png)
+## Robot Design
+![Robot Design](media/robot.png)
 
 ## Demo
 ![Robot directing itself to source of sound](media/robot_demo.mp4)
