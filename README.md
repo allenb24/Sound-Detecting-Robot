@@ -34,7 +34,7 @@ Developed as a final project for EEC 10: Introduction to Embedded Systems at UC 
 - `src/`: Source files, including robot control logic and system initialization
 - `inc/`: Header files for system utilities (e.g. Clock, SysTick)
 - `ccs_project/`: Code Composer Studio project files
-- `extras/`: Backup or non-critical files
+- `media/`: Images and videos of robot
 
 ## Robot Design
 ![robot](https://github.com/user-attachments/assets/9a436956-8c9e-46dd-bac9-63e8cac98ffe)
@@ -43,7 +43,7 @@ Developed as a final project for EEC 10: Introduction to Embedded Systems at UC 
 ## Demo
 
 
-![demo](https://github.com/user-attachments/assets/1dd77673-c3ed-451e-aad0-8a63ae4053c5)
+https://github.com/user-attachments/assets/1dd77673-c3ed-451e-aad0-8a63ae4053c5
 
 
 
