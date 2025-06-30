@@ -37,10 +37,15 @@ Developed as a final project for EEC 10: Introduction to Embedded Systems at UC 
 - `extras/`: Backup or non-critical files
 
 ## Robot Design
-![Robot Design](media/robot.png)
+![robot](https://github.com/user-attachments/assets/9a436956-8c9e-46dd-bac9-63e8cac98ffe)
+
 
 ## Demo
-![Robot directing itself to source of sound](media/robot_demo.mp4)
+
+
+![demo](https://github.com/user-attachments/assets/1dd77673-c3ed-451e-aad0-8a63ae4053c5)
+
+
 
 ---
 
